@@ -1,19 +1,14 @@
 # Cafe Wordpress Theme
-This is a cafe wordpress theme in progress.
+This is a cafe wordpress theme in the works.
 
 ## Features
 This *theme* **features**:
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Page 1
+- Post 1
+- Blog 1
 
-1. Numbered 1
-1. Numbered 2
-1. Numbered 3
+1. Los Angeles Lakers
+1. Milaukee Bucks
+1. Brooklyn Nets
 
-This is a 'line of code'.
-
-'''
-This is long code
-in multiple lines

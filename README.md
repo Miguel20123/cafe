@@ -11,5 +11,5 @@ This *theme* **features**:
 1. Bags
 1. Cloths
 1. Food
-1. Computers
+1. Sushi
 

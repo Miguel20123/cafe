@@ -1,14 +1,14 @@
 # Cafe Wordpress Theme
-This is a cafe wordpress theme in the works.
+This is the major development of Cafe Wordpress
 
 ## Features
 This *theme* **features**:
 
-- Page 1
-- Post 1
-- Blog 1
+- Cars
+- Sports
+- Travels
 
-1. Los Angeles Lakers
-1. Milaukee Bucks
-1. Brooklyn Nets
+1. Bags
+1. Cloths
+1. Food
 

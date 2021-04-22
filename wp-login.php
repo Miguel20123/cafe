@@ -1432,3 +1432,5 @@ switch ( $action ) {
 		login_footer();
 		break;
 } // End action switch.
+
+# This is a comment
